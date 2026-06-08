@@ -1,36 +1,33 @@
-## Hi there 👋
+# Hi, I'm Pedro Sousa 👋
 
-I'm Pedro Henrique, a passionate software developer and tech enthusiast. I currently work as a Senior Software Developer.
-With over 10 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+### Senior iOS & Mobile Engineer · AI, Architecture, DevOps
 
-“Your focus determines your reality.” — Qui-Gon Jinn
+> 💼 **Open to work** — Open to remote and international Senior iOS & Mobile Engineer roles.  
+> Roles of interest: Senior iOS & Mobile Engineer · Senior iOS Engineer · Senior Android Engineer.
 
-# 🚀 Expertise
+Engineer with over 21 years of experience, rooted in mobile development across iOS and Android. Over time I grew into a full-spectrum engineer, working across AI engineering, software architecture, DevOps, state management and testing. Based in Brazil and open to remote and international roles.
 
-Passionate about crafting interactive and intuitive mobile experiences, I specialize in mobile software engineering, utilizing both native and hybrid technologies. With almost 7 years of experience dedicated to honing my skills in mobile development, I've led teams, designed system guidelines, and upheld the highest standards in app performance and user experience.
+📍 Brazil · Remote
 
-Throughout my career, I've had the opportunity to serve as a Senior Software Engineer, where my technical expertise met the challenges of team leadership. Beyond creating cutting-edge mobile applications, I embraced the responsibilities of guiding my team with strategic oversight, ensuring efficient project execution and top-notch results.
+## What I work with
 
-In addition to my professional endeavors, I've embraced the role of a "content creator" in the tech sphere, offering a unique perspective on mobile technologies with a touch of humor.
+AI-Assisted Development · BLoC · Clean Architecture · Git · RESTful APIs · Scrum · Swift · Unit Testing · CI/CD · GraphQL · Kanban · MVVM
 
-Outside of work, I have a passion for creating "art" using exclusively CSS, a practice that sharpens my technical skills while allowing me to blend creativity and programming in an engaging and innovative way.
+## Featured work
 
-# 💻 Tech Stack
+- **[Itaú](https://apps.apple.com/br/app/banco-itau-conta-cartao-e/id474505665)** — One of the largest banks in Brazil and Latin America. Contributed to current account features, authentication, and user experience, using native iOS architecture with a focus on performance and security.
+- **[XP Investimentos](https://apps.apple.com/br/app/xp-investimentos/id1300713021)** — Brazil's leading investment platform. Developed features for the investment flow, deposits and withdrawals using native iOS MVVM and VIPER architectures and cross-platform Flutter.
+- **[Banco do Brasil](https://apps.apple.com/br/app/banco-do-brasil-abrir-conta/id330984271)** — App of Brazil's largest public bank, with millions of users. Implemented features using React Native, ensuring performance and stability across multiple devices and platforms.
+- **[Uber Conta](https://apps.apple.com/br/app/uber-conta/id1550784531)** — Uber's financial product for drivers and couriers. Developed native iOS digital account features, focused on financial security and robust payment flows.
+- **[OLX](https://apps.apple.com/br/app/olx-comprar-e-vender-online/id692808319)** — Brazil's largest buy and sell marketplace. Contributed to iOS platform features, optimising the listing, search, and buyer-seller communication experience.
+- **[Alelo](https://apps.apple.com/br/app/meu-alelo/id557972322)** — Visa-backed benefits and meal card app with over 290k App Store reviews. Developed native iOS features focused on balance management, statements, and payments.
 
-![Swift](https://img.shields.io/badge/-Swift-333333?style=for-the-badge&logo=swift&logoColor=FA7343)
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=dart&logoColor=00B4AB)
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java&logoColor=5382A1)
-![Objective-C](https://img.shields.io/badge/-Objective--C-333333?style=for-the-badge&logo=apple&logoColor=1575F9)
-![Flutter](https://img.shields.io/badge/-Flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=5DC8F8) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
+## Where to find me
 
+- 🌐 Website: https://pedromobile.com
+- Linkedin: https://www.linkedin.com/in/pedro-mobile
+- Github: https://github.com/PedroMobile
 
+---
 
-
-
-
-
-
-# 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-h-21190064) 
+_This profile is generated from [Pedro OS](https://pedromobile.com) — the source of truth for my career data._
