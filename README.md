@@ -2,16 +2,16 @@
 
 ### Senior iOS & Mobile Engineer · AI, Architecture, DevOps
 
-> 💼 **Open to work** — Open to remote and international Senior iOS & Mobile Engineer roles.  
-> Roles of interest: Senior iOS & Mobile Engineer · Senior iOS Engineer · Senior Android Engineer.
+> 💼 **Open to work** — Open to remote and international roles, full-time or freelance.  
+> Roles of interest: Senior iOS & Mobile Engineer · Staff Software Engineer · AI Engineer.
 
-Engineer with over 21 years of experience, rooted in mobile development across iOS and Android. Over time I grew into a full-spectrum engineer, working across AI engineering, software architecture, DevOps, state management and testing. Based in Brazil and open to remote and international roles.
+Engineer with over 21 years of experience, rooted in mobile (iOS and Android) with full-spectrum reach. I take product from concept to the App Store and to scale, working across AI engineering, software architecture, DevOps, state management and testing. Based in Brazil, open to remote and international roles.
 
 📍 Brazil · Remote
 
 ## What I work with
 
-AI-Assisted Development · BLoC · Clean Architecture · Git · RESTful APIs · Scrum · Swift · Unit Testing · CI/CD · GraphQL · Kanban · MVVM
+AI-Assisted Development · AdMob · BLoC · Clean Architecture · Combine · DDD · Event-Driven Architecture · Git · In-App Purchases · Instruments · RESTful APIs · React
 
 ## Featured work
 
