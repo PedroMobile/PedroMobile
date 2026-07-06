@@ -15,12 +15,10 @@ AI-Assisted Development · AdMob · BLoC · Clean Architecture · Combine · DDD
 
 ## Featured work
 
-- **[Itaú](https://apps.apple.com/br/app/banco-itau-conta-cartao-e/id474505665)** — One of the largest banks in Brazil and Latin America. Contributed to current account features, authentication, and user experience, using native iOS architecture with a focus on performance and security.
 - **[XP Investimentos](https://apps.apple.com/br/app/xp-investimentos/id1300713021)** — Brazil's leading investment platform. Developed features for the investment flow, deposits and withdrawals using native iOS MVVM and VIPER architectures and cross-platform Flutter.
 - **[Banco do Brasil](https://apps.apple.com/br/app/banco-do-brasil-abrir-conta/id330984271)** — App of Brazil's largest public bank, with millions of users. Implemented features using React Native, ensuring performance and stability across multiple devices and platforms.
 - **[Uber Conta](https://apps.apple.com/br/app/uber-conta/id1550784531)** — Uber's financial product for drivers and couriers. Developed native iOS digital account features, focused on financial security and robust payment flows.
 - **[OLX](https://apps.apple.com/br/app/olx-comprar-e-vender-online/id692808319)** — Brazil's largest buy and sell marketplace. Contributed to iOS platform features, optimising the listing, search, and buyer-seller communication experience.
-- **[Alelo](https://apps.apple.com/br/app/meu-alelo/id557972322)** — Visa-backed benefits and meal card app with over 290k App Store reviews. Developed native iOS features focused on balance management, statements, and payments.
 
 ## Where to find me
 
